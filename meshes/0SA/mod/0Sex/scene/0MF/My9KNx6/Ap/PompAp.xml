@@ -9,7 +9,7 @@
 			<option halo="hgentle" icon="osx_tumli_f" go="^+11YdU6" text="^layDownTummy">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/>
 			</option>
-			<option halo="hgentle" icon="" go="^+10SadKf" text="^straddleW" t0="0">
+			<option halo="hgentle" icon="osx_sqt_f" go="^+10SadKf" text="^straddleW" t0="0">
 			<hhue n="hu" cmd="rg" a="1"/><ihue n="sk" cmd="body" v="1"/><ihue n="ni" cmd="body" v="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="obbstup_f" go="^+11St" text="^standUp">
