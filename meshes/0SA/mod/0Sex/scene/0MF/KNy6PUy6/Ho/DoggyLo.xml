@@ -8,8 +8,8 @@
 			<option halo="hgentle" icon="oplumpf180_f" go="^+01F180" text="^flipWOver" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="osx_stlegspr_f" go="^+01CuLi" text="^straddlePLegs" t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="osx_st_m" go="^+01CuLi" text="^straddlePLegs" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
 			</option>
 			<option halo="hgentle" icon="oknlbup_f" iRevX="1" go="^+01SiLa" text="^sitWInYourLap" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
