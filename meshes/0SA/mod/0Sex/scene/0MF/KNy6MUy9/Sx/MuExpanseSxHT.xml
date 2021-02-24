@@ -25,7 +25,7 @@
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^thrustFaster" minustext="^thrustSlower"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="osx_mu02_f" go="^+01Aku" text="^takePAnklesAndPullPLegsUp" t0="1">
+			<option halo="hgentle" icon="osx_legcurl_f" go="^+01Aku" text="^takePAnklesAndPullPLegsUp" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="osx_sqt_f" go="^+01ARwThi" text="^hugPThighsAgainstYou" t0="1">
