@@ -49,11 +49,6 @@
 				<asprop id="_rotation" v="90"/>
 				</option>									
 			</xmenu>
-	<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="osx_180bust_f" go="0MF|MIy9!Ty2|Sx|SideSaddle" text="Ride her sideways">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
 	</tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">

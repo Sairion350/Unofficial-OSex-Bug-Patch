@@ -4,18 +4,18 @@
 <anim id="0Sx0MF_Ho-CraneLounge" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="osx_bodo_f" go="^+01LfDo" text="^putWOnAllFours" t0="1">
-			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="osx_do_f" go="^+01LfDo" text="^putWOnAllFours" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/>
 			</option>
 			<option halo="hgentle" icon="osx_tumli_f" go="^+01F180" text="^flipWOver" t0="1">
-			<hhue n="hu" cmd="rg" a="0"/><ihue n="sk" cmd="body" v="1"/><ihue n="ni" cmd="body" v="1"/><ihue n="gx" cmd="rg" a="0"/>
+			<hhue n="hu" cmd="rg" a="1"/><ihue n="sk" cmd="body" v="1"/><ihue n="ni" cmd="body" v="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="osx_stlegspr_f" go="0MF|KNy6!My9|Ho|MishKnRecl" text="^openPLegs" t0="1">
-			<hhue n="hu" cmd="rg" a="0"/><ihue n="sk" cmd="body" v="1"/><ihue n="ni" cmd="body" v="1"/><ihue n="gx" cmd="rg" a="0"/>
+			<hhue n="hu" cmd="rg" a="1"/><ihue n="sk" cmd="body" v="1"/><ihue n="ni" cmd="body" v="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="objbbos_mf" go="0MF|YOy6!My9|BJ|PlumberBJT" text="Fuck her face">
-			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			<option halo="hgentle" icon="objbbos_mf" go="0MF|YOy6!My9|BJ|PlumberBJT" text="Fuck their face">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 			<cond cmd="plugin" id="BB"/>
 			</option>
 		</page>

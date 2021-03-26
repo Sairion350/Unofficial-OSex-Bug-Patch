@@ -15,7 +15,7 @@
 			<option halo="hgentle" icon="obbstup_f" go="^+11St" text="^standUp">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obododn_f" go="0MF|My9!KNx3|Ho|Jupiter" text="^bendOverW" t0="0">
+			<option halo="hgentle" icon="obododn_f" go="^+10Bo90" text="^bendOverW" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<optionx halo="hgentle" icon="obododn_f" go="0MF|My9!KNx3|HJ|JupiterHJO" text="TEMP JUPITER">

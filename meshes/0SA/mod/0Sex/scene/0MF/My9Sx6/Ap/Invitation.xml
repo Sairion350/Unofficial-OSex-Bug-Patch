@@ -7,15 +7,15 @@
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="osx_stlegspr_f" go="^+10SadSt" text="^standOverW" t0="0">
+			<option halo="hgentle" icon="oknlbdn_f" go="^+11Kn" text="^kneelDown">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="oknlbdn_f" go="^+11Kn" text="^kneelDown">
+			<option halo="hgentle" icon="osx_stlegspr_f" go="^+10SadSt" text="^standOverW" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mtriex"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="osx_180bust_f" go="BG|My9!Sx6|Ap|Invitation+10F180" text="^flipWOver" t0="0">
+			<option halo="hgentle" icon="osx_kn6x_f" go="BG|My9!Sx6|Ap|Invitation+10F180" text="^flipWOver" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			<cond cmd="plugin" id="BG"/>
 			</option>
